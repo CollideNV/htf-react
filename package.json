@@ -1,5 +1,5 @@
 {
-  "name": "htf-2023-react",
+  "name": "htf-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "@types/node": "^16.18.3",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
-    "htf-2023-component": "github:CollideNV/htf-2023-component",
+    "htf-component": "github:CollideNV/htf-component",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",

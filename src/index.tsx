@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'htf-2023-component';
+import 'htf-component';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
